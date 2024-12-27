@@ -2,7 +2,7 @@ import React from "react";
 import Form from "./Form";
 import Login from "./login"
 
-var userIsRegistered = false;
+var userIsRegistered = true;
 var isLoggedIn = false
 
 function App() {
